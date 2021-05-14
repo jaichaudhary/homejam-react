@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homejam-react/static/css/main.d6b9ae43.chunk.css",
+    "main.js": "/homejam-react/static/js/main.91ba7f53.chunk.js",
+    "main.js.map": "/homejam-react/static/js/main.91ba7f53.chunk.js.map",
+    "runtime-main.js": "/homejam-react/static/js/runtime-main.cdb9e207.js",
+    "runtime-main.js.map": "/homejam-react/static/js/runtime-main.cdb9e207.js.map",
+    "static/js/2.3393a352.chunk.js": "/homejam-react/static/js/2.3393a352.chunk.js",
+    "static/js/2.3393a352.chunk.js.map": "/homejam-react/static/js/2.3393a352.chunk.js.map",
+    "static/js/3.7511e3bf.chunk.js": "/homejam-react/static/js/3.7511e3bf.chunk.js",
+    "static/js/3.7511e3bf.chunk.js.map": "/homejam-react/static/js/3.7511e3bf.chunk.js.map",
+    "index.html": "/homejam-react/index.html",
+    "static/css/main.d6b9ae43.chunk.css.map": "/homejam-react/static/css/main.d6b9ae43.chunk.css.map",
+    "static/js/2.3393a352.chunk.js.LICENSE.txt": "/homejam-react/static/js/2.3393a352.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/homejam-react/static/media/banner.e37fcf2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb9e207.js",
+    "static/js/2.3393a352.chunk.js",
+    "static/css/main.d6b9ae43.chunk.css",
+    "static/js/main.91ba7f53.chunk.js"
+  ]
+}
