@@ -1,0 +1,107 @@
+/* row classes style is used in almost every component */
+
+.title_heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2% 9% 2% 8%;
+}
+.row {
+  position: relative;
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 0% 8% 0% 8%;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+
+/* row classes style is used in almost every component */
+
+.row_img {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #111229;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  color: aliceblue;
+  min-width: 268px;
+  min-height: 387px;
+  margin-top: 10px;
+  margin-right: 20px;
+  box-shadow: 5px -5px #234c97;
+  /* background: linear-gradient(163.41deg, #301a68 0.11%, #234c97 170.69%); */
+}
+/* .row_gradientShadow {
+  border-radius: 8px;
+  display: flex;
+  background: linear-gradient(163.41deg, #301a68 0.11%, #234c97 170.69%);
+} */
+.top {
+  margin-top: 100px;
+}
+.row_viewAll {
+  color: #e5c558;
+}
+/* .row_title {
+  position: relative;
+  padding: 2% 8% 2% 8%;
+} */
+.row::-webkit-scrollbar {
+  display: none;
+}
+.genre {
+  position: absolute;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+
+  margin-left: 16px;
+  margin-top: 25px;
+  background: #e5c558;
+  border-radius: 1px;
+  color: #682f26;
+  align-items: center;
+  padding: 2px 6px;
+}
+.name {
+  position: absolute;
+  font-family: Libre Baskerville;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  width: 100%;
+  object-fit: contain;
+  line-height: 32px;
+  margin-left: 16px;
+  margin-top: 51px;
+}
+.more {
+  position: absolute;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  width: 100%;
+  line-height: 32px;
+  color: #0259eb;
+  margin-top: 110px;
+  margin-left: 16px;
+}
+.more_Icon {
+  margin-left: 10px;
+  margin-bottom: -3px;
+}
+.more_flex{
+  display:flex;
+}
+.bookmark{
+  margin-top:115px;
+  margin-left:230px
+}
+/* .more:hover {
+  transition: 0.2s ease-in-out;
+} */
